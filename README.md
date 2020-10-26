@@ -1,2 +1,2 @@
-# c-
-C++ for begin
+Create by: Ha Cong Anh
+Block Thang Moiz ok ?
