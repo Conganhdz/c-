@@ -1,2 +1,1 @@
-Create by: Ha Cong Anh
-Block Thang Moiz ok ?
+# C++ For Beginer
